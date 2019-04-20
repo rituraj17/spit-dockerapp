@@ -37,9 +37,10 @@ Flask Dockerized
  
 # For more Details of Docker example:
   
--https://likegeeks.com/docker-tutorial/
+https://likegeeks.com/docker-tutorial/
 
--https://medium.com/the-andela-way/docker-for-beginners-61e8e0ce6a19
+https://medium.com/the-andela-way/docker-for-beginners-61e8e0ce6a19
 
--https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
+https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
 
+https://www.katacoda.com/
