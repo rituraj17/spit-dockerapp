@@ -10,6 +10,8 @@ cd into the clone repo
 
 sudo docker build -t sample-image:v1 .
 
+[Copy the whole line along with dot(.) while pasting it]
+
 sudo docker images                                                  
 [Note: list the image that you have created]
 
