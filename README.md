@@ -1,4 +1,4 @@
-# spit-dockerapp
+# Spit-dockerapp
 Sample For SPIT-Docker-Demo
 
 
